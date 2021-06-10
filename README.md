@@ -8,7 +8,7 @@
 - [Payment handler](https://www.w3.org/TR/payment-handler/)
 - [Conic gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient())
 - [AV1](https://www.chromestatus.com/feature/5729898442260480)
-- [Async clipboard API](https://developers.google.com/web/updates/2018/03/clipboardapi)
+- [Async clipboard API](https://web.dev/async-clipboard/)
 - [CSS typed OM](https://developers.google.com/web/updates/2018/03/cssom)
 - [updateViaCache](https://developers.google.com/web/updates/2018/06/fresher-sw)
 - [Desktop PWAs](https://developers.google.com/web/progressive-web-apps/desktop)
