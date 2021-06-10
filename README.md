@@ -21,7 +21,7 @@
 - [OffscreenCanvas](https://developers.google.com/web/updates/2018/08/offscreen-canvas)
 - [Focus preventScroll](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus)
 - [Sensors](https://web.dev/generic-sensor/)
-- [BigInt](https://developers.google.com/web/updates/2018/05/bigint)
+- [BigInt](https://v8.dev/features/bigint)
 - [Page Lifecycle API](https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
 - [Server timing API](https://developers.google.com/web/updates/2018/03/nic65#server-timing)
 - [trimStart/End](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart)
