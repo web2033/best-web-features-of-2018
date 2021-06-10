@@ -31,4 +31,4 @@
 - [ResizeObserver](https://web.dev/resize-observer/)
 - [Audio worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
 - [Fetch cache mode](https://developer.mozilla.org/en-US/docs/Web/API/Request/cache)
-- [Class fields](https://developers.google.com/web/updates/2018/12/class-fields)
+- [Class fields](https://v8.dev/features/class-fields)
