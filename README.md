@@ -20,7 +20,7 @@
 - [toggleAttribute](https://developer.mozilla.org/en-US/docs/Web/API/Element/toggleAttribute)
 - [OffscreenCanvas](https://developers.google.com/web/updates/2018/08/offscreen-canvas)
 - [Focus preventScroll](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus)
-- [Sensors](https://developers.google.com/web/updates/2017/09/sensors-for-the-web)
+- [Sensors](https://web.dev/generic-sensor/)
 - [BigInt](https://developers.google.com/web/updates/2018/05/bigint)
 - [Page Lifecycle API](https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
 - [Server timing API](https://developers.google.com/web/updates/2018/03/nic65#server-timing)
