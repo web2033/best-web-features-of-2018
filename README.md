@@ -30,5 +30,5 @@
 - [Intl.RelativeTimeFormat](https://v8.dev/features/intl-relativetimeformat)
 - [ResizeObserver](https://web.dev/resize-observer/)
 - [Audio worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
-- [Fetch cache mode](https://fetch.spec.whatwg.org/#concept-request-cache-mode)
+- [Fetch cache mode](https://developer.mozilla.org/en-US/docs/Web/API/Request/cache)
 - [Class fields](https://developers.google.com/web/updates/2018/12/class-fields)
