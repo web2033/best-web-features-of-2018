@@ -6,7 +6,7 @@
 - [Site isolation](http://www.chromium.org/Home/chromium-security/site-isolation)
 - [Named workers](https://github.com/whatwg/html/issues/2477)
 - [Payment handler](https://www.w3.org/TR/payment-handler/)
-- [Conic gradient](https://css-tricks.com/snippets/css/css-conic-gradient/)
+- [Conic gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient())
 - [AV1](https://www.chromestatus.com/feature/5729898442260480)
 - [Async clipboard API](https://developers.google.com/web/updates/2018/03/clipboardapi)
 - [CSS typed OM](https://developers.google.com/web/updates/2018/03/cssom)
