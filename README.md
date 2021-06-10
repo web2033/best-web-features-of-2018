@@ -10,7 +10,7 @@
 - [AV1](https://www.chromestatus.com/feature/5729898442260480)
 - [Async clipboard API](https://web.dev/async-clipboard/)
 - [CSS typed OM](https://developers.google.com/web/updates/2018/03/cssom)
-- [updateViaCache](https://developers.google.com/web/updates/2018/06/fresher-sw)
+- [updateViaCache](https://developers.google.com/web/updates/2019/09/fresher-sw)
 - [Desktop PWAs](https://developers.google.com/web/progressive-web-apps/desktop)
 - [Bitmapprerendererer](https://developers.google.com/web/updates/2018/04/nic66#css-paint-api)
 - [Web locks](https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API)
