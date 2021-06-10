@@ -28,7 +28,7 @@
 - [import.meta](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import.meta)
 - [RegEx named capture groups](https://developers.google.com/web/updates/2017/07/upcoming-regexp-features)
 - [Intl.RelativeTimeFormat](https://v8.dev/features/intl-relativetimeformat)
-- [ResizeObserver](https://developers.google.com/web/updates/2016/10/resizeobserver)
+- [ResizeObserver](https://web.dev/resize-observer/)
 - [Audio worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
 - [Fetch cache mode](https://fetch.spec.whatwg.org/#concept-request-cache-mode)
 - [Class fields](https://developers.google.com/web/updates/2018/12/class-fields)
