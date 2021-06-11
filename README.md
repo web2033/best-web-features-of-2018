@@ -32,3 +32,7 @@
 - [Audio worklet](https://developers.google.com/web/updates/2017/12/audio-worklet)
 - [Fetch cache mode](https://developer.mozilla.org/en-US/docs/Web/API/Request/cache)
 - [Class fields](https://v8.dev/features/class-fields)
+
+---
+
+- [Best Web Features of 2019](https://github.com/web2033/best-web-features-of-2019)
